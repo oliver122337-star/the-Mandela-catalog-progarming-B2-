@@ -1,1 +1,7 @@
-print("Hello World")
+print ("welcome to the interview")
+h_self=("alright thats great")
+input("question one\ntell me about yourself")
+print(h_self)
+h_weakness=("great")
+input("question two,\nwhat are you're strengths and weaknesses")
+print(h_weakness)
