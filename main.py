@@ -1,3 +1,10 @@
+"""
+Filename: interview.py
+Author: <hensel, oliver>
+Created: <08/27/2026>
+Instructor: Burgess
+
+"""
 print ("\nwelcome to the interview")
 h_self=("alright thats great")
 final1=input("question one\ntell me about yourself")
