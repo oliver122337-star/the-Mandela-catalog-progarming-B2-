@@ -1,0 +1,29 @@
+"""
+Filename: interview.py
+Author: <hensel, oliver>
+Created: <08/27/2026>
+Instructor: Burgess
+
+"""
+print ("\nwelcome to the interview")
+h_self=("alright thats great")
+final1=input("question one\ntell me about yourself")
+print(h_self)
+h_weakness=("great")
+final2=input("question two,\nwhat are you're strengths and weaknesses?")
+print(h_weakness)
+h_hire=("okay.")
+final3=input("question 3 \nwhy should we hire you?")
+print(h_hire)
+h_challenge=("fantastic, last question")
+final4=input("question 4 \ntell me about a time you've overcame a challenge")
+print(h_challenge)
+h_work=("alright")
+final5=input("question 5 \n why do you want to work here?")
+print(h_work)
+print("you said","1:", final1)
+print("you said","2:", final2)
+print("you said","3:", final3)
+print("you said","4:", final4)
+print("you said","5:", final5)
+print("thank you for your time. \nyour interview will be processed. \n you'll receive an email from basemail@gmail.com in 2-3 weeks")
