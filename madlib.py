@@ -3,7 +3,6 @@ Filename: madlib.py
 Author: <hensel, oliver>
 Created: <08/31/2026>
 Instructor: Burgess
-
 """
 q1=("Adjective:")
 q2=("Noun (Electronic Device):")
