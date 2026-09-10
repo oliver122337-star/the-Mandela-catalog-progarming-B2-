@@ -1,6 +1,6 @@
 """
 Filename: calculator.py
-Author: <hensel, oliver>
+Author: <Hensel, Oliver>
 Created: <09/8/2026>
 Instructor: Burgess
 
