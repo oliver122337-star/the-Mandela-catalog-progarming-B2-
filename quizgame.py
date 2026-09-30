@@ -28,4 +28,5 @@ elif q1=="A"or "a":
     score1+1
 
 
+
 print(score1)
