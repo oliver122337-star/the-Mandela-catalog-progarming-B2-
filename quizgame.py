@@ -105,6 +105,4 @@ pass
 
 print("alright, that was the last question. your score was ", score,"/10")
 
-if score>=8
-    print("great job!")
-elif score=
+
