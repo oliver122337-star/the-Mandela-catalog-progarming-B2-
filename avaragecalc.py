@@ -6,24 +6,18 @@ Instructor: Burgess
 
 """
 
+n1=0
+nument=1
+ammout=0
+r1="y"
 
-n1=int(input("Enter your first number: "))
-n2=int(input("Enter your second number: "))
-s0m= 0
-
-s0m=s0m+n1+n2
-addnum=input("would you like to add another number?")
-if addnum=="y":
-   add=input("enter number")
-   s0m=s0m+add
-elif addnum=="n":
-    print(s0m)
-pass
-print(s0m"print1")
-s0m=s0m/2
-pass
-print(s0m)
-
+while r1=="y":
+    q1=input("enter a number")
+    n1=n1+int(q1)
+    print ("current sum:",n1)
+    print ("amount of numbers:",nument)
+    print ("average",n1/nument)
+    r1=input("would you like to enter another number? {y,n}")
 
 
 
