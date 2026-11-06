@@ -25,6 +25,6 @@ while e==2:
     elif int (question) < rand0m:
         print("too low")
         e=2
-    elif question == rand0m:
+    elif int (question) == rand0m:
         print("you guessed the number")
         e=1
